@@ -1,0 +1,31 @@
+
+import { Politician } from './types';
+
+export const SEED_POLITICIANS: Politician[] = [
+  { id: '1', name: 'Pete Sessions', state: 'Texas', chamber: 'House', party: 'Republican', website: 'https://sessions.house.gov' },
+  { id: '2', name: 'Andy Harris', state: 'Maryland', chamber: 'House', party: 'Republican', website: 'https://harris.house.gov' },
+  { id: '3', name: 'Doug LaMalfa', state: 'California', chamber: 'House', party: 'Republican', website: 'https://lamalfa.house.gov' },
+  { id: '4', name: 'Paul A. Gosar', state: 'Arizona', chamber: 'House', party: 'Republican', website: 'https://gosar.house.gov' },
+  { id: '5', name: 'Robert B. Aderholt', state: 'Alabama', chamber: 'House', party: 'Republican', website: 'https://aderholt.house.gov' },
+  { id: '6', name: 'John H. Rutherford', state: 'Florida', chamber: 'House', party: 'Republican', website: 'https://rutherford.house.gov' },
+  { id: '7', name: 'Chuck Edwards', state: 'North Carolina', chamber: 'House', party: 'Republican', website: 'https://edwards.house.gov' },
+  { id: '8', name: 'Mary E. Miller', state: 'Illinois', chamber: 'House', party: 'Republican', website: 'https://marymiller.house.gov' },
+  { id: '9', name: 'Michael V. Lawler', state: 'New York', chamber: 'House', party: 'Republican', website: 'https://lawler.house.gov' },
+  { id: '10', name: 'Ralph Norman', state: 'South Carolina', chamber: 'House', party: 'Republican', website: 'https://norman.house.gov' },
+  { id: '11', name: 'Russ Fulcher', state: 'Idaho', chamber: 'House', party: 'Republican', website: 'https://fulcher.house.gov' },
+  { id: '12', name: 'Sheri Biggs', state: 'South Carolina', chamber: 'House', party: 'Republican', website: 'https://sheribiggs.house.gov' },
+  { id: '13', name: 'David Rouzer', state: 'North Carolina', chamber: 'House', party: 'Republican', website: 'https://rouzer.house.gov' },
+  { id: '14', name: 'Christopher H. Smith', state: 'New Jersey', chamber: 'House', party: 'Republican', website: 'https://chrissmith.house.gov' },
+  { id: '15', name: 'Mark Harris', state: 'North Carolina', chamber: 'House', party: 'Republican', website: 'https://markharris.house.gov' },
+  { id: '16', name: 'Blake D. Moore', state: 'Utah', chamber: 'House', party: 'Republican', website: 'https://blakemoore.house.gov' },
+  { id: '17', name: 'Ron Estes', state: 'Kansas', chamber: 'House', party: 'Republican', website: 'https://estes.house.gov' },
+  { id: '18', name: 'Barry Loudermilk', state: 'Georgia', chamber: 'House', party: 'Republican', website: 'https://loudermilk.house.gov' },
+  { id: '19', name: 'Michael K. Simpson', state: 'Idaho', chamber: 'House', party: 'Republican', website: 'https://simpson.house.gov' },
+  { id: '20', name: 'Diana Harshbarger', state: 'Tennessee', chamber: 'House', party: 'Republican', website: 'https://harshbarger.house.gov' },
+  { id: '21', name: 'Aaron Bean', state: 'Florida', chamber: 'House', party: 'Republican', website: 'https://bean.house.gov' },
+  { id: '22', name: 'Michael Cloud', state: 'Texas', chamber: 'House', party: 'Republican', website: 'https://cloud.house.gov' },
+  { id: '23', name: 'Joe Wilson', state: 'South Carolina', chamber: 'House', party: 'Republican', website: 'https://joewilson.house.gov' },
+  { id: '24', name: 'John Rose', state: 'Tennessee', chamber: 'House', party: 'Republican', website: 'https://johnrose.house.gov' },
+  { id: '25', name: 'Mike Flood', state: 'Nebraska', chamber: 'House', party: 'Republican', website: 'https://flood.house.gov' },
+  { id: '26', name: 'Nathaniel Moran', state: 'Texas', chamber: 'House', party: 'Republican', website: 'https://moran.house.gov' },
+];

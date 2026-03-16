@@ -1,0 +1,5 @@
+{
+  "name": "MoneyTrails",
+  "description": "An autonomous investigative platform that profiles politicians by tracing their financial donors, industry ties, and legislative influences using Gemini Search Grounding and OpenSecrets data.",
+  "requestFramePermissions": []
+}
